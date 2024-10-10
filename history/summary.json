@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/94.159.99.86.ico",
     "slug": "nginx",
     "status": "up",
-    "uptime": "1.89%",
-    "uptimeDay": "1.89%",
-    "uptimeWeek": "1.89%",
-    "uptimeMonth": "1.89%",
-    "uptimeYear": "1.89%",
-    "time": 288,
-    "timeDay": 288,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "uptime": "23.35%",
+    "uptimeDay": "23.35%",
+    "uptimeWeek": "23.35%",
+    "uptimeMonth": "23.35%",
+    "uptimeYear": "23.35%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2024-10-10": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   }
 ]
