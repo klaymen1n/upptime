@@ -4,19 +4,19 @@
     "url": "http://94.159.99.86",
     "icon": "https://icons.duckduckgo.com/ip3/94.159.99.86.ico",
     "slug": "nginx",
-    "status": "down",
-    "uptime": "81.07%",
-    "uptimeDay": "81.07%",
-    "uptimeWeek": "81.07%",
-    "uptimeMonth": "81.07%",
-    "uptimeYear": "81.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.89%",
+    "uptimeDay": "1.89%",
+    "uptimeWeek": "1.89%",
+    "uptimeMonth": "1.89%",
+    "uptimeYear": "1.89%",
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 29
     }
   },
   {
