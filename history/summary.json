@@ -4,10 +4,10 @@
     "url": "http://94.159.99.86",
     "icon": "https://icons.duckduckgo.com/ip3/94.159.99.86.ico",
     "slug": "nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 233,
@@ -16,6 +16,7 @@
     "timeMonth": 234,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2025-01-02": 1,
       "2024-10-14": 72,
       "2024-10-11": 288,
       "2024-10-10": 29
@@ -26,7 +27,7 @@
     "url": "94.159.99.86",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shadowsocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2025-01-02": 0,
       "2024-10-14": 71
     }
   }
